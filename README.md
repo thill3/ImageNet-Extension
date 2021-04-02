@@ -1,5 +1,7 @@
 # ImageNet-Extension
 
+<Please note that in order to run it is the case that 
+
 The idea behind this assignment was to use three groups of pictures (one each of cats, dogs, and elephants) to train an extension of the InceptionV3 image classification model.
 
 I tried a lot of different combinations of hyperparameters and network architectures in order to arrive at one that generated good loss and accuracy numbers.
